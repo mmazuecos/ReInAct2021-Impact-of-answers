@@ -4,9 +4,9 @@ Base code for the paper *[The impact of answers in visual dialog](https://aclant
 
 Based on the code of Ravi Shekhar for [Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat](https://arxiv.org/abs/1809.03408).
 
-You can get the visual features of the images and target objects [here].(https://drive.google.com/file/d/1zjm9tEXpTfjr3f__M4lPp0_rEPjdlQqM/view?usp=sharing)
+You can get the visual features of the images and target objects [here](https://drive.google.com/file/d/1zjm9tEXpTfjr3f__M4lPp0_rEPjdlQqM/view?usp=sharing).
 
-You can get the GuessWhat?! dataset [here].(https://drive.google.com/file/d/1JiJIV_Ve65SHriU8veTtLVWmlM-Nu6pi/view?usp=sharing)
+You can get the GuessWhat?! dataset [here](https://drive.google.com/file/d/1JiJIV_Ve65SHriU8veTtLVWmlM-Nu6pi/view?usp=sharing).
 
 ## Training Oracle Models
 
